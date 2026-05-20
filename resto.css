@@ -10,7 +10,7 @@
 {
     float: left;
 }
-.navbar li a 
+ul li a 
 {
   display: block;
   color: white;
@@ -19,7 +19,7 @@
   text-decoration: none;
 }
 
-.navbar li a:hover 
+ul li a:hover 
 {
   background-color: #4c00ff;
 }
