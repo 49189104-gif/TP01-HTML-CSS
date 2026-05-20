@@ -19,8 +19,7 @@
         </nav>
     </header>
     <form action='@Url.Action("Hacer", "Reserva")' method = "post" enctype="multipart/form-data">
-        Fecha: <input type="date" name="Fecha">
-        Horario: <input type="number" name="Horario">
+        Fecha y Horario: <input type="datetime-local" name="Fecha y Horario">
         Cantidad de personas: <input type="number" name="Cantidad de personas">
     </form>
 </body>
