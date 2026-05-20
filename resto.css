@@ -22,17 +22,6 @@ ul li a:hover
 {
   background-color: #4c00ff;
 }
-.landing {
-  display: block;
-}
-.landing div {
-  display: inline-block;
-  text-align: center;
-  width: 49.9%;
-}
-.landing div img {
-
-}
 form
 {
     text-align: center;
